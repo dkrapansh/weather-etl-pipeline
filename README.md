@@ -30,5 +30,5 @@ A fully automated **ETL pipeline** built using Python and PostgreSQL that fetche
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/weather-etl-pipeline.git
+git clone https://github.com/dkrapansh/weather-etl-pipeline.git
 cd weather-etl-pipeline
