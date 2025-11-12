@@ -14,7 +14,15 @@ A fully automated **ETL pipeline** built using Python and PostgreSQL that fetche
 - Transforms raw JSON into clean tabular format using Pandas  
 - Loads structured data into PostgreSQL using `psycopg2`  
 - Includes detailed logging for every ETL step  
-- Uses `.env` for secure configuration and credential management  
+- Uses `.env` for secure configuration and credential management
+  
+---
+
+## 📊 Weather Data Visualization
+
+After running the ETL pipeline, the script generates a temperature comparison chart for all cities.
+
+![Weather Data Plot](weather_plot.png)
 
 ---
 
